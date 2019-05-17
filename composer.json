@@ -1,0 +1,17 @@
+{
+  "name": "zsd/aliyun-open-api-sdk",
+  "description": "阿里云公共api访问sdk",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Zsd",
+      "email": "zsd_it@163.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "AOApi\\": "src/"
+    }
+  }
+}
